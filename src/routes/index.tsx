@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { useState, useMemo } from "react";
+import { useState, useMemo, useCallback, useTransition } from "react";
 import { ContractorCard } from "../components/ContractorCard";
 import { FilterBar, type Filters } from "../components/FilterBar";
 import {
@@ -7,6 +7,7 @@ import {
   getDistinctDistricts,
   type Contractor,
 } from "../utils/contractors";
+import { parseSearchQuery, type SearchFilters } from "../utils/search.functions";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -47,15 +48,90 @@ function applyFilters(contractors: Contractor[], filters: Filters): Contractor[]
   return result;
 }
 
+function applyAiFilters(
+  contractors: Contractor[],
+  sf: SearchFilters,
+  manualFilters: Filters,
+): Contractor[] {
+  let result = contractors;
+
+  if (sf.trade) {
+    result = result.filter((c) => c.trade === sf.trade);
+  }
+  if (sf.district) {
+    result = result.filter((c) => c.district === sf.district);
+  }
+  if (manualFilters.tier !== "all") {
+    result = result.filter((c) => c.safety_tier === manualFilters.tier);
+  }
+  if (sf.keywords.length > 0) {
+    const kws = sf.keywords.map((k) => k.toLowerCase());
+    result = result.filter((c) => {
+      const text = `${c.enterprise_name_zh} ${c.enterprise_name_en} ${c.address}`.toLowerCase();
+      return kws.some((kw) => text.includes(kw));
+    });
+  }
+
+  return result;
+}
+
 function HomePage() {
   const allContractors = getContractors();
   const districts = getDistinctDistricts();
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
+  const [aiFilters, setAiFilters] = useState<SearchFilters | null>(null);
+  const [searchPending, startTransition] = useTransition();
+  const [aiActive, setAiActive] = useState(false);
 
-  const filtered = useMemo(
-    () => applyFilters(allContractors, filters),
-    [allContractors, filters],
+  const filtered = useMemo(() => {
+    if (aiActive && aiFilters) {
+      return applyAiFilters(allContractors, aiFilters, filters);
+    }
+    return applyFilters(allContractors, filters);
+  }, [allContractors, filters, aiFilters, aiActive]);
+
+  const handleSearch = useCallback(
+    (query: string) => {
+      if (!query.trim()) {
+        setAiActive(false);
+        setAiFilters(null);
+        setFilters((f) => ({ ...f, query: "" }));
+        return;
+      }
+
+      startTransition(async () => {
+        try {
+          const result = await parseSearchQuery({ data: { query } });
+          const sf = result.filters;
+          if (sf.trade || sf.district || sf.keywords.length > 0) {
+            setAiFilters(sf);
+            setAiActive(true);
+            setFilters((f) => ({
+              ...f,
+              trade: sf.trade ?? "all",
+              district: sf.district ?? "all",
+              query: "",
+            }));
+          } else {
+            setAiActive(false);
+            setAiFilters(null);
+            setFilters((f) => ({ ...f, query }));
+          }
+        } catch {
+          setAiActive(false);
+          setAiFilters(null);
+          setFilters((f) => ({ ...f, query }));
+        }
+      });
+    },
+    [],
   );
+
+  const handleFilterChange = useCallback((next: Filters) => {
+    setAiActive(false);
+    setAiFilters(null);
+    setFilters(next);
+  }, []);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
@@ -72,9 +148,12 @@ function HomePage() {
         <FilterBar
           filters={filters}
           districts={districts}
-          onChange={setFilters}
+          onChange={handleFilterChange}
+          onSearch={handleSearch}
+          searchPending={searchPending}
           totalCount={allContractors.length}
           filteredCount={filtered.length}
+          aiActive={aiActive}
         />
       </section>
 
