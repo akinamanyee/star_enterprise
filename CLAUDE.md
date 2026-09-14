@@ -54,9 +54,8 @@ Every AI-assisted change must follow the principles below.
   AI-default look (stock gradients, lone centered cards, emoji headings,
   untouched component defaults); beautify before every final output.
 
-## Project Knowledge Status
+## Authoritative Docs
 
-No PRD, tech stack details, or feature list have been provided yet. Until
-those are added, treat this file's Coding Principles as binding on any code
-written, and do not assume product scope, stack, or data model beyond what's
-documented here.
+- `PRD.md` — the product requirements (single source of truth for scope)
+- `Product_Roadmap.md` — ordered milestones; the next milestone to build
+- `CLAUDE.md` (this file) — coding principles binding on every change
