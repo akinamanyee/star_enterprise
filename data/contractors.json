@@ -1,0 +1,1780 @@
+{
+  "version": "1.0.0",
+  "extracted_at": "2026-09-14T14:55:45.753Z",
+  "source_pdfs": [
+    "interior_renovation.pdf",
+    "air_conditioning.pdf",
+    "external_wall_pipe.pdf",
+    "truss_out_scaffolding.pdf"
+  ],
+  "contractors": [
+    {
+      "enterprise_name_zh": "健發建築有限公司",
+      "enterprise_name_en": "Kin Fat Construction Company Limited",
+      "address": "Flat/Room 602-3, Leader Comm Building, 54-56 Hillwood Road, Tsim Sha Tsui, KLN",
+      "telephone": [
+        "85223802121"
+      ],
+      "telephone_display": "2380 2121",
+      "effective_date_start": "2025-07-14",
+      "effective_date_end": "2027-07-13",
+      "recertification_in_progress": false,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_gold_star",
+      "trade": "interior_renovation",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "雅聯工程有限公司",
+      "enterprise_name_en": "Nga Luen Construction & Engineering Co., Limited",
+      "address": "Flat/Room B,16/F Galaxy Faxtory Building, 25-27 Luk Hop Street, San Po Kong, KLN",
+      "telephone": [
+        "85224273788"
+      ],
+      "telephone_display": "2427 3788",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_gold_star",
+      "trade": "interior_renovation",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "新聯合棚廠有限公司",
+      "enterprise_name_en": "New Luen Hop Bamboo Frame Works Limited",
+      "address": "沙田博康邨博逸樓120室",
+      "telephone": [
+        "85290339480"
+      ],
+      "telephone_display": "9033 9480",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2013,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Sha Tin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "合創發展（香港）有限公司",
+      "enterprise_name_en": "ACS Group Limited",
+      "address": "荃灣沙咀道26-38號匯力工業中心1009室",
+      "telephone": [
+        "85227232189"
+      ],
+      "telephone_display": "2723 2189",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Tsuen Wan",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "協調（強記）冷氣工程公司",
+      "enterprise_name_en": "Concord Air-conditioning & Engineering Co.",
+      "address": "G/F, 27 Mei On Street, Tai Kok Tsui, KLN",
+      "telephone": [
+        "85290964018"
+      ],
+      "telephone_display": "9096 4018",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "智達建築工程有限公司",
+      "enterprise_name_en": "Chester Construction Co. Limited",
+      "address": "Flat B4, G/F, Por Mee Factory Building, 500 Castle Peak Road, Cheung Sha Wan, KLN",
+      "telephone": [
+        "85229590230"
+      ],
+      "telephone_display": "2959 0230",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "天毅工程（服務）有限公司",
+      "enterprise_name_en": "Firm Engineering (Services) Limited",
+      "address": "Flat / Room 604H, 6/F, Lai Cheong Factory Building, 479 Castle Peak Road, KLN",
+      "telephone": [
+        "85231888944"
+      ],
+      "telephone_display": "3188 8944",
+      "effective_date_start": "2026-03-05",
+      "effective_date_end": "2028-03-04",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "祥泰工程有限公司",
+      "enterprise_name_en": "Hsiang Tai Contracting Co Ltd",
+      "address": "Rm 409, 4/F Hong Man Industrial Centre, 2 Hong Man Street, Chai Wan",
+      "telephone": [
+        "85225595000"
+      ],
+      "telephone_display": "2559 5000",
+      "effective_date_start": "2025-11-27",
+      "effective_date_end": "2027-11-26",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Eastern",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "萬隆哈佛士有限公司",
+      "enterprise_name_en": "Marvel Harvest Limited",
+      "address": "Unit A1, 14/F, Chaiwan Industrial Centre, 20 Lee Chung Street, Chai Wan",
+      "telephone": [
+        "85228112887"
+      ],
+      "telephone_display": "2811 2887",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Eastern",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "溢豐工程有限公司",
+      "enterprise_name_en": "Deco Classic Limited",
+      "address": "新界葵涌葵喜街38號都會坊18樓8室 職安健星級企業名冊 (按首次認可年份、企業英文名稱及其業務性質*排序)",
+      "telephone": [
+        "85224192382"
+      ],
+      "telephone_display": "2419 2382",
+      "effective_date_start": "2026-08-21",
+      "effective_date_end": "2028-08-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2019,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Kwai Tsing",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "安星工程有限公司",
+      "enterprise_name_en": "Onstar Engineering Limited",
+      "address": "Flat/Rm 1006B, 10/F Harbour CTR Tower 2, 8 Hok Cheung St, Hung Hom, KLN",
+      "telephone": [
+        "85223624783"
+      ],
+      "telephone_display": "2362 4783",
+      "effective_date_start": "2025-02-21",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2019,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "貝登工程有限公司",
+      "enterprise_name_en": "Prudence Engineering Limited",
+      "address": "Room 29A, Shield Industrial Centre, 84-92 Chai Wan Kok St., Tsuen Wan, NT",
+      "telephone": [
+        "85225056005"
+      ],
+      "telephone_display": "2505 6005",
+      "effective_date_start": "2026-06-08",
+      "effective_date_end": "2028-06-07",
+      "recertification_in_progress": false,
+      "accreditation_since": 2021,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Tsuen Wan",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "晴朗搭棚工程有限公司",
+      "enterprise_name_en": "Sunny Construction (H.K) Limited",
+      "address": "Room B20, 3/F, Lead On Industrial Building, No. 18 Ng Fong Street, San Po Kong",
+      "telephone": [
+        "85223839885"
+      ],
+      "telephone_display": "2383 9885",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2021,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "鴻鈞工程有限公司",
+      "enterprise_name_en": "Thomas Lo Contracting Limited",
+      "address": "九龍青山道 489-491 號香港工業中心 A座8樓 810 室",
+      "telephone": [
+        "85225289238"
+      ],
+      "telephone_display": "2528 9238",
+      "effective_date_start": "2026-08-23",
+      "effective_date_end": "2028-08-22",
+      "recertification_in_progress": false,
+      "accreditation_since": 2022,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "新龍棚業工程有限公司",
+      "enterprise_name_en": "Sun Lung Scaffolding Company Limited",
+      "address": "Shop B, G/F, No.45 Ngan Fung St., Fung Wong New Village, KLN",
+      "telephone": [
+        "85266442341"
+      ],
+      "telephone_display": "6644 2341",
+      "effective_date_start": "2026-03-05",
+      "effective_date_end": "2028-03-04",
+      "recertification_in_progress": false,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Yuen Long",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "偉力工程（香港）有限公司",
+      "enterprise_name_en": "Willy Engineering (HK) Limited",
+      "address": "Flat/Rm 1511 H, Block B, 15/F, Goodview Industrial Building, 11 Kin Fat Street, Tuen Mun, NT",
+      "telephone": [
+        "85269099700"
+      ],
+      "telephone_display": "6909 9700",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Tuen Mun",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "東泰建築工程有限公司",
+      "enterprise_name_en": "Dongtai Construction Engineering Limited",
+      "address": "Shop 31A, 1/F, Banyan Mall, 863 Lai Chi Kok Road, Phase 2, Banyan Garden, Cheung Sha Wan",
+      "telephone": [
+        "85266451689"
+      ],
+      "telephone_display": "6645 1689",
+      "effective_date_start": "2026-08-21",
+      "effective_date_end": "2028-08-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "健煒建築有限公司",
+      "enterprise_name_en": "Kinsway Construction Co., Ltd.",
+      "address": "香港新界葵涌葵豐街1-15號盈豐大廈13樓11室",
+      "telephone": [
+        "85224192808"
+      ],
+      "telephone_display": "24192808",
+      "effective_date_start": "2024-11-21",
+      "effective_date_end": "2026-11-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Kwai Tsing",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "金順豐(棚業)有限公司",
+      "enterprise_name_en": "Golden Favourable (Scaffolding) Company Limited",
+      "address": "新界葵涌大連排道182-190號金龍工業中心4座16樓L室",
+      "telephone": [
+        "85221164982"
+      ],
+      "telephone_display": "2116 4982",
+      "effective_date_start": "2025-02-21",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Kwai Tsing",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "駿捷裝飾設計工程有限公司",
+      "enterprise_name_en": "JJ Interior Design & Engineering Limited",
+      "address": "Flat 7, 25/F, Sunwise Industrial Building, 16-26 Wang Wo Tsai Street, Tsuen Wan",
+      "telephone": [
+        "85226998707"
+      ],
+      "telephone_display": "2699 8707",
+      "effective_date_start": "2026-07-29",
+      "effective_date_end": "2028-07-28",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "interior_renovation",
+      "district": "Tsuen Wan",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "有利冷氣工程有限公司",
+      "enterprise_name_en": "Yau Lee Air-Conditioning Engineering Limited",
+      "address": "Flat/Room 1717-21,17/F,Chun Shing FTY Estate,85-89 Kwai Fuk Road, Tsuen Wan",
+      "telephone": [
+        "85290329097"
+      ],
+      "telephone_display": "9032 9097",
+      "effective_date_start": "2024-10-18",
+      "effective_date_end": "2026-10-17",
+      "recertification_in_progress": false,
+      "accreditation_since": 2013,
+      "safety_tier": "osh_star",
+      "trade": "air_conditioning",
+      "district": "Tsuen Wan",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "協調（強記）冷氣工程公司",
+      "enterprise_name_en": "Concord Air-conditioning & Engineering Co.",
+      "address": "G/F, 27 Mei On Street, Tai Kok Tsui, KLN",
+      "telephone": [
+        "85290964018"
+      ],
+      "telephone_display": "9096 4018",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_star",
+      "trade": "air_conditioning",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "萬通冷氣工程有限公司",
+      "enterprise_name_en": "Man Tung Air-Conditioning Works Limited",
+      "address": "P G/F, International Industrial Centre,2-8 Kwei Tei Street Fo Tan, Shatin, NT",
+      "telephone": [
+        "85226095680"
+      ],
+      "telephone_display": "2609 5680",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2015,
+      "safety_tier": "osh_star",
+      "trade": "air_conditioning",
+      "district": "Sha Tin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "高陞工程(香港)有限公司",
+      "enterprise_name_en": "Gotop Engineering (HK) Limited",
+      "address": "Flat/Rm K, Blk 3, 4/F Kwun Tong Ind Ctr, 448-458, Kwun Tong, Kwun Tong, KLN",
+      "telephone": [
+        "85224593038"
+      ],
+      "telephone_display": "2459 3038",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "air_conditioning",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "安星工程有限公司",
+      "enterprise_name_en": "Onstar Engineering Limited",
+      "address": "Flat/Rm 1006B, 10/F Harbour CTR Tower 2, 8 Hok Cheung St, Hung Hom, KLN",
+      "telephone": [
+        "85223624783"
+      ],
+      "telephone_display": "2362 4783",
+      "effective_date_start": "2025-02-21",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2019,
+      "safety_tier": "osh_star",
+      "trade": "air_conditioning",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "健浩機械工程有限公司",
+      "enterprise_name_en": "Kent Ho Engineering Works Limited",
+      "address": "Unit 2, 12/F, Wah Wan Ind. Bldg., No.2 Kin Fat Lane, Tuen Mun, NT",
+      "telephone": [
+        "85227586001"
+      ],
+      "telephone_display": "27586001",
+      "effective_date_start": "2024-11-21",
+      "effective_date_end": "2026-11-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "air_conditioning",
+      "district": "Tuen Mun",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "健發建築有限公司",
+      "enterprise_name_en": "Kin Fat Construction Company Limited",
+      "address": "Flat/Room 602-3, Leader Comm Building, 54-56 Hillwood Road, Tsim Sha Tsui, KLN",
+      "telephone": [
+        "85223802121"
+      ],
+      "telephone_display": "2380 2121",
+      "effective_date_start": "2025-07-14",
+      "effective_date_end": "2027-07-13",
+      "recertification_in_progress": false,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_gold_star",
+      "trade": "external_wall_pipe",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "雅聯工程有限公司",
+      "enterprise_name_en": "Nga Luen Construction & Engineering Co., Limited",
+      "address": "Flat/Room B,16/F Galaxy Faxtory Building, 25-27 Luk Hop Street, San Po Kong, KLN",
+      "telephone": [
+        "85224273788"
+      ],
+      "telephone_display": "2427 3788",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_gold_star",
+      "trade": "external_wall_pipe",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "新聯合棚廠有限公司",
+      "enterprise_name_en": "New Luen Hop Bamboo Frame Works Limited",
+      "address": "沙田博康邨博逸樓120室",
+      "telephone": [
+        "85290339480"
+      ],
+      "telephone_display": "9033 9480",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2013,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Sha Tin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "協調（強記）冷氣工程公司",
+      "enterprise_name_en": "Concord Air-conditioning & Engineering Co.",
+      "address": "G/F, 27 Mei On Street, Tai Kok Tsui, KLN",
+      "telephone": [
+        "85290964018"
+      ],
+      "telephone_display": "9096 4018",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "智達建築工程有限公司",
+      "enterprise_name_en": "Chester Construction Co. Limited",
+      "address": "Flat B4, G/F, Por Mee Factory Building, 500 Castle Peak Road, Cheung Sha Wan, KLN",
+      "telephone": [
+        "85229590230"
+      ],
+      "telephone_display": "2959 0230",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "萬隆哈佛士有限公司",
+      "enterprise_name_en": "Marvel Harvest Limited",
+      "address": "Unit A1, 14/F, Chaiwan Industrial Centre, 20 Lee Chung Street, Chaiwan",
+      "telephone": [
+        "85228112887"
+      ],
+      "telephone_display": "2811 2887",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Eastern",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "安星工程有限公司",
+      "enterprise_name_en": "Onstar Engineering Limited",
+      "address": "Flat/Rm 1006B, 10/F Harbour CTR Tower 2, 8 Hok Cheung St, Hung Hom, KLN",
+      "telephone": [
+        "85223624783"
+      ],
+      "telephone_display": "2362 4783",
+      "effective_date_start": "2025-02-21",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2019,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "貝登工程有限公司",
+      "enterprise_name_en": "Prudence Engineering Limited",
+      "address": "Room 29A, Shield Industrial Centre, 84-92 Chai Wan Kok St., Tsuen Wan, NT",
+      "telephone": [
+        "85225056005"
+      ],
+      "telephone_display": "2505 6005",
+      "effective_date_start": "2026-06-08",
+      "effective_date_end": "2028-06-07",
+      "recertification_in_progress": false,
+      "accreditation_since": 2021,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Tsuen Wan",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "晴朗搭棚工程有限公司",
+      "enterprise_name_en": "Sunny Construction (H.K) Limited",
+      "address": "Room B20, 3/F, Lead On Industrial Building, No. 18 Ng Fong Street, San Po Kong",
+      "telephone": [
+        "85223839885"
+      ],
+      "telephone_display": "2383 9885",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2021,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "鴻圖工程（香港）有限公司",
+      "enterprise_name_en": "Hung To Engineering (Hong Kong) Limited",
+      "address": "Flat/Rm 6, 9/F Sunray Ind Ctr, 610 Cha Kwo Ling Rd, KLN",
+      "telephone": [
+        "85223743581"
+      ],
+      "telephone_display": "2374 3581",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2022,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "新龍棚業工程有限公司",
+      "enterprise_name_en": "Sun Lung Scaffolding Company Limited",
+      "address": "Shop B, G/F, No.45 Ngan Fung St., Fung Wong New Village, KLN",
+      "telephone": [
+        "85266442341"
+      ],
+      "telephone_display": "6644 2341",
+      "effective_date_start": "2026-03-05",
+      "effective_date_end": "2028-03-04",
+      "recertification_in_progress": false,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Yuen Long",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "偉力工程（香港）有限公司",
+      "enterprise_name_en": "Willy Engineering (HK) Limited",
+      "address": "Flat/Rm 1511 H, Block B, 15/F, Goodview Industrial Building, 11 Kin Fat Street, Tuen Mun, NT 職安健星級企業名冊 (按首次認可年份、企業英文名稱及其業務性質*排序)",
+      "telephone": [
+        "85269099700"
+      ],
+      "telephone_display": "6909 9700",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Tuen Mun",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "東泰建築工程有限公司",
+      "enterprise_name_en": "Dongtai Construction Engineering Limited",
+      "address": "Shop 31A, 1/F, Banyan Mall, 863 Lai Chi Kok Road, Phase 2, Banyan Garden, Cheung Sha Wan",
+      "telephone": [
+        "85266451689"
+      ],
+      "telephone_display": "6645 1689",
+      "effective_date_start": "2026-08-21",
+      "effective_date_end": "2028-08-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "健浩機械工程有限公司",
+      "enterprise_name_en": "Kent Ho Engineering Works Limited",
+      "address": "Unit 2, 12/F, Wah Wan Ind. Bldg., No.2 Kin Fat Lane, Tuen Mun, NT",
+      "telephone": [
+        "85227586001"
+      ],
+      "telephone_display": "27586001",
+      "effective_date_start": "2024-11-21",
+      "effective_date_end": "2026-11-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Tuen Mun",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "健煒建築有限公司",
+      "enterprise_name_en": "Kinsway Construction Co., Ltd.",
+      "address": "香港新界葵涌葵豐街1-15號盈豐大廈13樓11室",
+      "telephone": [
+        "85224192808"
+      ],
+      "telephone_display": "24192808",
+      "effective_date_start": "2024-11-21",
+      "effective_date_end": "2026-11-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Kwai Tsing",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "金順豐(棚業)有限公司",
+      "enterprise_name_en": "Golden Favourable (Scaffolding) Company Limited",
+      "address": "新界葵涌大連排道182-190號金龍工業中心4座16樓L室",
+      "telephone": [
+        "85221164982"
+      ],
+      "telephone_display": "2116 4982",
+      "effective_date_start": "2025-02-21",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "external_wall_pipe",
+      "district": "Kwai Tsing",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "宏發行棚業有限公司",
+      "enterprise_name_en": "Wang Fat Hong Scaffolding Limited",
+      "address": "深水埗鴨寮街40號A1舖",
+      "telephone": [
+        "85227257138"
+      ],
+      "telephone_display": "2725 7138",
+      "effective_date_start": "2026-07-26",
+      "effective_date_end": "2028-07-25",
+      "recertification_in_progress": false,
+      "accreditation_since": 2013,
+      "safety_tier": "osh_gold_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "有合棚廠工程有限公司",
+      "enterprise_name_en": "Yau Hop Scaffolding Works and Contractors Limited",
+      "address": "Flat/ Room A, 1/F, 113 Prince Edward Road, West Mong Kok, KLN",
+      "telephone": [
+        "85223971968"
+      ],
+      "telephone_display": "2397 1968",
+      "effective_date_start": "2025-11-06",
+      "effective_date_end": "2027-11-05",
+      "recertification_in_progress": false,
+      "accreditation_since": 2013,
+      "safety_tier": "osh_gold_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "志輝棚廠",
+      "enterprise_name_en": "Chi Fai Scaffolding Works",
+      "address": "Flat/Room B, 11/F, Winfair Mans, 1A- 1B Poplar Street, Mongkok, KLN",
+      "telephone": [
+        "85227891951"
+      ],
+      "telephone_display": "2789 1951",
+      "effective_date_start": "2026-08-23",
+      "effective_date_end": "2028-08-22",
+      "recertification_in_progress": false,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_gold_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "樂森棚業有限公司",
+      "enterprise_name_en": "Lok Sum Scaffolding Limited",
+      "address": "Flat 6, Block A, 3/F, Delya Industrial Centre, No. 7 Shek Pai Tau Road, Tuen Mun",
+      "telephone": [
+        "85290496321"
+      ],
+      "telephone_display": "9049 6321",
+      "effective_date_start": "2024-12-24",
+      "effective_date_end": "2026-12-23",
+      "recertification_in_progress": false,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_gold_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Tuen Mun",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "躍馬棚業有限公司",
+      "enterprise_name_en": "Yamaha Scaffolding Limited",
+      "address": "屯門建泰街6號恆威工業中心B1座 14033.R室",
+      "telephone": [
+        "85292004445"
+      ],
+      "telephone_display": "9200 4445",
+      "effective_date_start": "2025-08-22",
+      "effective_date_end": "2026-11-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_gold_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Tuen Mun",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "世紀（亞洲）建築有限公司",
+      "enterprise_name_en": "Century (ASIA) Construction Limited",
+      "address": "G/F 199, Kau Liu Ha, Lam Tsuen, Tai Po, NT",
+      "telephone": [
+        "85225126088"
+      ],
+      "telephone_display": "2512 6088",
+      "effective_date_start": "2026-02-08",
+      "effective_date_end": "2028-02-07",
+      "recertification_in_progress": false,
+      "accreditation_since": 2014,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Tai Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "全馬有限公司",
+      "enterprise_name_en": "Chuen Ma Limited",
+      "address": "A1022, 10/F, New East Sun Industrial Building, 18 Shing Yip Street, Kwun Tong, KLN 企業名稱/地址                             電話            證書有效期*                首次認可年份",
+      "telephone": [
+        "85225533664"
+      ],
+      "telephone_display": "2553 3664",
+      "effective_date_start": "2026-02-23",
+      "effective_date_end": "2028-02-22",
+      "recertification_in_progress": false,
+      "accreditation_since": 2015,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "有合棚業（德昇）有限公司",
+      "enterprise_name_en": "Yau Hop Scaffolding Works (Tactful Future)",
+      "address": "Flat/ Room A, 1/F, 113 Prince Edward Road, West Mong Kok, KLN",
+      "telephone": [
+        "85223971968"
+      ],
+      "telephone_display": "2397 1968",
+      "effective_date_start": "2025-11-27",
+      "effective_date_end": "2027-11-26",
+      "recertification_in_progress": false,
+      "accreditation_since": 2015,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "好好記棚業有限公司",
+      "enterprise_name_en": "Ho Ho Kee Scaffolding Company Limited",
+      "address": "粉嶺聯和墟和豐街28號囍逸1座22C",
+      "telephone": [
+        "85296319497"
+      ],
+      "telephone_display": "9631 9497",
+      "effective_date_start": "2025-10-31",
+      "effective_date_end": "2027-10-30",
+      "recertification_in_progress": false,
+      "accreditation_since": 2017,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "North",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "兆華棚業工程有限公司",
+      "enterprise_name_en": "Siu Wah Scaffolding Company Limited",
+      "address": "香港觀塘敬業街61-63號利維大廈 10樓1019D室",
+      "telephone": [
+        "85266067766"
+      ],
+      "telephone_display": "6606 7766",
+      "effective_date_start": "2026-06-21",
+      "effective_date_end": "2028-06-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2017,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "利安棚業有限公司",
+      "enterprise_name_en": "Lee On Scaffolding Ltd",
+      "address": "Rm 2557, 25/F Chun Shing Factory Est, 85-89 Kwai Fuk Rd, Tsuen Wan, NT",
+      "telephone": [
+        "85224396210"
+      ],
+      "telephone_display": "2439 6210",
+      "effective_date_start": "2024-10-18",
+      "effective_date_end": "2026-10-17",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Tsuen Wan",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "旭星建築工程有限公司",
+      "enterprise_name_en": "Super Star Construction Engineering Limited",
+      "address": "旺角塘尾道198號地下G舖",
+      "telephone": [
+        "85221945281"
+      ],
+      "telephone_display": "2194 5281",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2018,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "駿成棚業有限公司",
+      "enterprise_name_en": "Chun Shing Scaffolding Limited",
+      "address": "Room 1003, 10/F BLK A, Kam Leung Hse, Kam Ying Court, Ma On Shan, NT",
+      "telephone": [
+        "85260200295"
+      ],
+      "telephone_display": "6020 0295",
+      "effective_date_start": "2025-09-02",
+      "effective_date_end": "2027-09-01",
+      "recertification_in_progress": false,
+      "accreditation_since": 2019,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sha Tin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "港基棚業工程有限公司",
+      "enterprise_name_en": "Kong Kai Scaffolding Company Limited",
+      "address": "Unit 8A, 5/F Wing Hang Ind. Bldg, 13- 29 Kwai Hei Street, Kwai Chung",
+      "telephone": [
+        "85226140995"
+      ],
+      "telephone_display": "2614 0995",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2019,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwai Tsing",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "柏樂工程有限公司",
+      "enterprise_name_en": "Pak Lok Engineering Limited",
+      "address": "G/F, 59A Ngan Fung St, Wong Tai Sin, KLN 企業名稱/地址                            電話              證書有效期*               首次認可年份",
+      "telephone": [
+        "85265430804"
+      ],
+      "telephone_display": "6543 0804",
+      "effective_date_start": "2026-08-21",
+      "effective_date_end": "2028-08-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2019,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "嶺都裝飾有限公司",
+      "enterprise_name_en": "Let's Do Decoration Limited",
+      "address": "Room 1701, 17/F, Wai Fung Plaza, 664 Nathan Road, Mong Kok, KLN",
+      "telephone": [
+        "85234826607"
+      ],
+      "telephone_display": "3482 6607",
+      "effective_date_start": "2024-10-18",
+      "effective_date_end": "2026-10-17",
+      "recertification_in_progress": false,
+      "accreditation_since": 2020,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "淼森棚業工程有限公司",
+      "enterprise_name_en": "Miu Sum Scaffolding Limited",
+      "address": "Flat B, 2/F, Cheerful Commercial Building, No 116-118 Ma Tau Wai Road, Hung Hom",
+      "telephone": [
+        "85237912199"
+      ],
+      "telephone_display": "3791 2199",
+      "effective_date_start": "2025-02-21",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2020,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "權記工程有限公司",
+      "enterprise_name_en": "Kuen Kee Engineering Ltd",
+      "address": "觀塘鴻圖道42號華寶中心502室",
+      "telephone": [
+        "85234603029"
+      ],
+      "telephone_display": "3460 3029",
+      "effective_date_start": "2025-02-25",
+      "effective_date_end": "2027-02-24",
+      "recertification_in_progress": false,
+      "accreditation_since": 2021,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "寶高工程（香港）有限公司",
+      "enterprise_name_en": "Po Ko Engineering (Hong Kong) Company Limited",
+      "address": "Shop 270, 2/F Big Day Mall, Bo Lin Hse, 9-13 Heung Sze Wui Street, Tai Po",
+      "telephone": [
+        "85225695536"
+      ],
+      "telephone_display": "2569 5536",
+      "effective_date_start": "2026-01-17",
+      "effective_date_end": "2028-01-16",
+      "recertification_in_progress": false,
+      "accreditation_since": 2021,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Tai Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "晴朗香港工程有限公司",
+      "enterprise_name_en": "Sunny (Hong Kong) Construction Limited",
+      "address": "Room B20, 3/F, Lead On Industrial Building, No.18 Ng Fong Street, San Po Kong, KLN",
+      "telephone": [
+        "85223839885"
+      ],
+      "telephone_display": "2383 9885",
+      "effective_date_start": "2025-10-19",
+      "effective_date_end": "2027-10-18",
+      "recertification_in_progress": false,
+      "accreditation_since": 2021,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "亞洲棚業設計有限公司",
+      "enterprise_name_en": "Asia Scaffolding Design Limited",
+      "address": "旺角彌敦道721-725號華比銀行大 廈5樓501室",
+      "telephone": [
+        "85267725525"
+      ],
+      "telephone_display": "6772 5525",
+      "effective_date_start": "2024-11-15",
+      "effective_date_end": "2026-11-14",
+      "recertification_in_progress": false,
+      "accreditation_since": 2022,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "盈豐棚業有限公司",
+      "enterprise_name_en": "Ying Feng Scaffolding Limited",
+      "address": "Unit 2305, APEC Plaza, 49 Hoi Yuen Road, Kwun Tong",
+      "telephone": [
+        "85262142412"
+      ],
+      "telephone_display": "6214 2412",
+      "effective_date_start": "2024-12-24",
+      "effective_date_end": "2026-12-23",
+      "recertification_in_progress": false,
+      "accreditation_since": 2022,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "進昇棚業工程有限公司",
+      "enterprise_name_en": "Further Rise Scaffolding Construction Ltd",
+      "address": "屯門永善工業中心AB座16樓1620室",
+      "telephone": [
+        "85268781813"
+      ],
+      "telephone_display": "6878 1813",
+      "effective_date_start": "2025-02-21",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Tuen Mun",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "利進棚業工程有限公司",
+      "enterprise_name_en": "Lee Chun Scaffolding Engineering Company Limited",
+      "address": "Flat/Rm 2201, 22/F Bangkok Bank Bldg, 490 Nathan Road, Yau Ma Tei, KLN",
+      "telephone": [
+        "85237912911"
+      ],
+      "telephone_display": "3791 2911",
+      "effective_date_start": "2026-01-23",
+      "effective_date_end": "2028-01-22",
+      "recertification_in_progress": false,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "明利聯合建築有限公司",
+      "enterprise_name_en": "Ming Li Association Construction Company Limited",
+      "address": "新界沙田火炭坳背灣街38-40號華 衛工貿中心15樓16室",
+      "telephone": [
+        "85231532113"
+      ],
+      "telephone_display": "3153 2113",
+      "effective_date_start": "2025-11-13",
+      "effective_date_end": "2027-11-12",
+      "recertification_in_progress": false,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sha Tin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "泓鋒棚業有限公司",
+      "enterprise_name_en": "Wang Fung Scaffolding Limited",
+      "address": "九龍黃大仙翠竹花園12座20樓H室",
+      "telephone": [
+        "85266999928"
+      ],
+      "telephone_display": "6699 9928",
+      "effective_date_start": "2025-10-03",
+      "effective_date_end": "2027-10-02",
+      "recertification_in_progress": false,
+      "accreditation_since": 2023,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "花記棚業工程有限公司",
+      "enterprise_name_en": "Flower's Scaffolding Engineering Limited",
+      "address": "Flat B25, 12/F, Gee Luen Factory Building, 316-318 Kwun Tong Road, Ngau Tau Kok, Kowloon",
+      "telephone": [
+        "85268418000"
+      ],
+      "telephone_display": "6841 8000",
+      "effective_date_start": "2026-01-17",
+      "effective_date_end": "2028-01-16",
+      "recertification_in_progress": false,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "日昇棚業工程有限公司",
+      "enterprise_name_en": "YS Scaffolding Engineering Company Limited",
+      "address": "沙田安麗街18號達利廣場1001室",
+      "telephone": [
+        "85222951163"
+      ],
+      "telephone_display": "2295 1163",
+      "effective_date_start": null,
+      "effective_date_end": null,
+      "recertification_in_progress": true,
+      "accreditation_since": 2024,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sha Tin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "123棚業有限公司",
+      "enterprise_name_en": "123 Scaffolding Limited",
+      "address": "Flat 3, 9/F, Block E, Nga Foon House, Yu Nga Court, 8 Yi Tung Road, Tung Chung, Lantau",
+      "telephone": [
+        "85294452089"
+      ],
+      "telephone_display": "9445 2089",
+      "effective_date_start": "2025-10-03",
+      "effective_date_end": "2027-10-02",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Islands",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "捷誠棚業設計有限公司",
+      "enterprise_name_en": "Chit Shing Scaffolding Design Limited",
+      "address": "Room D17, Unit D, 4/F, Hang Cheong Factory Building, No. 1 Wing Ming Street, Cheung Sha Wan, KLN",
+      "telephone": [
+        "85261819523"
+      ],
+      "telephone_display": "6181 9523",
+      "effective_date_start": "2025-07-14",
+      "effective_date_end": "2027-07-13",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "創興棚業工程有限公司",
+      "enterprise_name_en": "Chong Hing Scaffolding Engineering Company",
+      "address": "No 8, Magnolia Path House, Type C Palm Spring 8 Monterey, Yuen Long",
+      "telephone": [
+        "85264683223"
+      ],
+      "telephone_display": "6468 3223",
+      "effective_date_start": "2025-10-20",
+      "effective_date_end": "2027-10-19",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yuen Long",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "浚樺工程有限公司",
+      "enterprise_name_en": "Chun Wa Engineering Limited",
+      "address": "G/F, No 13 Mei On Street, Tai Kok Tsui, KLN",
+      "telephone": [
+        "85296331434"
+      ],
+      "telephone_display": "9633 1434",
+      "effective_date_start": "2026-01-23",
+      "effective_date_end": "2027-05-18",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "高樂天工程有限公司",
+      "enterprise_name_en": "Goal Lok Tin Engineering Company Limited",
+      "address": "Flat 22, 8/F, Leader Industrial Centre, 57-59 Au Pui Wan Street, Shatin",
+      "telephone": [
+        "85269766487"
+      ],
+      "telephone_display": "6976 6487",
+      "effective_date_start": "2025-07-31",
+      "effective_date_end": "2027-07-30",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sha Tin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "佳心工程有限公司",
+      "enterprise_name_en": "Great Heart Engineering Company Limited",
+      "address": "Flat E, 25/F, Block 6, Avon Park, 15 Yat Ming Road, Fanling",
+      "telephone": [
+        "85294545339"
+      ],
+      "telephone_display": "9454 5339",
+      "effective_date_start": "2025-08-22",
+      "effective_date_end": "2027-08-21",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "North",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "恒利棚業工程有限公司",
+      "enterprise_name_en": "Hang Lee Scaffolding Engineering Limited",
+      "address": "Shop 6, Block D, I-Feng Mansions, 237A-239A To Kwa Wan Road, KLN",
+      "telephone": [
+        "85262284955"
+      ],
+      "telephone_display": "6228 4955",
+      "effective_date_start": "2025-08-05",
+      "effective_date_end": "2027-08-04",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "顯達棚業工程有限公司",
+      "enterprise_name_en": "Hin Tat Scaffolding Engineering Limited",
+      "address": "Flat C, 8/F, Tak Sing Industrial Building, 28A Hung To Road, Kwun Tong",
+      "telephone": [
+        "85297334922"
+      ],
+      "telephone_display": "9733 4922",
+      "effective_date_start": "2025-08-22",
+      "effective_date_end": "2027-08-21",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "興龍棚業設計有限公司",
+      "enterprise_name_en": "Hing Lung Scaffolding Design Limited",
+      "address": "Room 9, 8/F, Sui Tai Wai Kee Plaza, 25 Hung To Road, Kwun Tong",
+      "telephone": [
+        "85221267854"
+      ],
+      "telephone_display": "2126 7854",
+      "effective_date_start": "2025-10-03",
+      "effective_date_end": "2027-10-02",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "興旺棚業工程有限公司",
+      "enterprise_name_en": "Hing Won Scaffolding Engineering Limited",
+      "address": "Unit A, 2/F, Hung To Centre, 94-96 How Ming Street, Kwun Tong",
+      "telephone": [
+        "85295555181"
+      ],
+      "telephone_display": "9555 5181",
+      "effective_date_start": "2025-10-08",
+      "effective_date_end": "2027-10-07",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "漢泓工程有限公司",
+      "enterprise_name_en": "Hon Wang Engineering Limited",
+      "address": "Room 29-33, 5/F, Beverley Comm. Centre, 87-105 Chatham Road, TST, Kowloon",
+      "telephone": [
+        "85260600157"
+      ],
+      "telephone_display": "6060 0157",
+      "effective_date_start": "2025-12-11",
+      "effective_date_end": "2027-12-10",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "皓駿棚業工程有限公司",
+      "enterprise_name_en": "Hoojoo Engineering Company Limited",
+      "address": "Room 5, 11/F, Lemmi Centre, 50 Hoi Yuen Road, Kwun Tong, KLN",
+      "telephone": [
+        "85254805756"
+      ],
+      "telephone_display": "5480 5756",
+      "effective_date_start": "2025-07-31",
+      "effective_date_end": "2027-07-30",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "恆博滙棚業有限公司",
+      "enterprise_name_en": "HPH Construction Engineering Company Limited",
+      "address": "Room 1422, Tin Cheung House, Tin Ping Estate, Sheung Shui",
+      "telephone": [
+        "85262045181"
+      ],
+      "telephone_display": "6204 5181",
+      "effective_date_start": "2025-08-22",
+      "effective_date_end": "2027-08-21",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "North",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "建成棚業設計有限公司",
+      "enterprise_name_en": "Kin Shing Scaffolding Design Limited",
+      "address": "Room 603, Block 1, Tak Fung Ind. Centre, 168 Texaco Road, Tsuen Wan 企業名稱/地址                             電話            證書有效期*                首次認可年份",
+      "telephone": [
+        "85237065902"
+      ],
+      "telephone_display": "3706 5902",
+      "effective_date_start": "2025-10-03",
+      "effective_date_end": "2027-10-02",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Tsuen Wan",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "利華棚廠有限公司",
+      "enterprise_name_en": "Lee Wah Shed Factory Limited",
+      "address": "Flat 309, Block A, 3/F, Han Ching House, Yee Ching Court, 311 Cheung Sha Wan Road, Shamshuipo",
+      "telephone": [
+        "85290187545"
+      ],
+      "telephone_display": "9018 7545",
+      "effective_date_start": "2025-11-18",
+      "effective_date_end": "2027-11-17",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "利高棚業工程有限公司",
+      "enterprise_name_en": "Leego Scaffolding Engineering Limited",
+      "address": "2/F, 348 Pok Wai Tsuen, San Tin, Yuen Long",
+      "telephone": [
+        "85268060108"
+      ],
+      "telephone_display": "6806 0108",
+      "effective_date_start": "2025-08-22",
+      "effective_date_end": "2027-08-21",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yuen Long",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "邁豪工程有限公司",
+      "enterprise_name_en": "Mai Ho Engineering Limited",
+      "address": "九龍佐敦偉晴街65-75號偉景閣地 下2A號舖",
+      "telephone": [
+        "85239968526"
+      ],
+      "telephone_display": "3996 8526",
+      "effective_date_start": "2025-12-01",
+      "effective_date_end": "2027-11-30",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "信實工程服務有限公司",
+      "enterprise_name_en": "Reliable Engineering Services Limited",
+      "address": "上環文咸西街44-46號 南北行商業中心1004室",
+      "telephone": [
+        "85234661485"
+      ],
+      "telephone_display": "3466 1485",
+      "effective_date_start": "2025-11-27",
+      "effective_date_end": "2027-02-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Central and Western",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "安全第一棚業工程有限公司",
+      "enterprise_name_en": "Safety First Scaffolding Engineering Limited",
+      "address": "筲箕灣阿公岩村里8號民興工業大 廈管理處SR3",
+      "telephone": [
+        "85263878273"
+      ],
+      "telephone_display": "6387 8273",
+      "effective_date_start": "2025-07-31",
+      "effective_date_end": "2027-07-30",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Eastern",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "順利工程營造有限公司",
+      "enterprise_name_en": "Shun Lee Engineering Limited",
+      "address": "G/F, 4 Wing Yiu Street, To Kwa Wan, KLN",
+      "telephone": [
+        "85226364365"
+      ],
+      "telephone_display": "2636 4365",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "信鞍實業工程有限公司",
+      "enterprise_name_en": "Shun On Industrial Construction Limited",
+      "address": "Flat A, 8/F, Po On Building, 30 Mongkok Road, Mongkok",
+      "telephone": [
+        "85263312838"
+      ],
+      "telephone_display": "6331 2838",
+      "effective_date_start": "2025-11-06",
+      "effective_date_end": "2027-11-05",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "品達裝修工程有限公司",
+      "enterprise_name_en": "Spendid Decoration Engineering Limited",
+      "address": "Room 409, Phase 2 Chai Wan Industrial City, 70 Wing Tai Road, Chai Wan",
+      "telephone": [
+        "85291803077"
+      ],
+      "telephone_display": "9180 3077",
+      "effective_date_start": "2025-05-30",
+      "effective_date_end": "2027-05-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Eastern",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "新源棚業設計有限公司",
+      "enterprise_name_en": "Sun Yuen Scaffolding Design Limited",
+      "address": "Room 321, 3/F, Sui Tai Wai Kee Plaza, 25 Hung To Road, Kwun Tong 企業名稱/地址                              電話            證書有效期*              首次認可年份",
+      "telephone": [
+        "85267498825"
+      ],
+      "telephone_display": "6749 8825",
+      "effective_date_start": "2025-10-03",
+      "effective_date_end": "2027-10-02",
+      "recertification_in_progress": false,
+      "accreditation_since": 2025,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "飛越棚業工程有限公司",
+      "enterprise_name_en": "Fly Over Scaffolding Engineering Limited",
+      "address": "G/F, No. 19 On Tai Building, 19-31 Mei Kwong Street, To Kwa Wan, Kowloon",
+      "telephone": [
+        "85237068939"
+      ],
+      "telephone_display": "3706 8939",
+      "effective_date_start": "2026-05-20",
+      "effective_date_end": "2028-05-19",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "興盛(兄弟)工程有限公司",
+      "enterprise_name_en": "Hing Shing (Brother) Engineering Limited",
+      "address": "A406, 7/F, Tung Nam Factory Building, 40 Ma Tau Kok Road, To Kwa Wan, Kowloon",
+      "telephone": [
+        "85295550808"
+      ],
+      "telephone_display": "9555 0808",
+      "effective_date_start": "2026-04-15",
+      "effective_date_end": "2028-04-14",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kowloon City",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "協信工程有限公司",
+      "enterprise_name_en": "Hip Shun Engineering Limited",
+      "address": "Room 1107, 11/F, Celebrity Comm Centre, 64 Castle Peak Road, Sham Shui Po",
+      "telephone": [
+        "85259312900"
+      ],
+      "telephone_display": "5931 2900",
+      "effective_date_start": "2026-05-20",
+      "effective_date_end": "2028-05-19",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "利興棚業工程有限公司",
+      "enterprise_name_en": "Lee Hing Scaffolding Engineering Limited",
+      "address": "Flat D, 2/F, Asian Building, 258 Cheung Sha Wan Road, Cheung Sha Wan",
+      "telephone": [
+        "85292866466"
+      ],
+      "telephone_display": "9286 6466",
+      "effective_date_start": "2026-02-01",
+      "effective_date_end": "2028-01-31",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "睦富棚業有限公司",
+      "enterprise_name_en": "Muk Fu Scaffolding Company Limited",
+      "address": "Flat 2201, 22/F, Bangkok Bank Building, 490 Nathan Road, Kowloon",
+      "telephone": [
+        "85235683004"
+      ],
+      "telephone_display": "3568 3004",
+      "effective_date_start": "2026-06-10",
+      "effective_date_end": "2028-06-09",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "歷高工程營造有限公司",
+      "enterprise_name_en": "Nicgo Construction Engineering Limited",
+      "address": "Flat 1103, 11/F, Prosperity Centre, 25 Chong Yip Street, Kwun Tong",
+      "telephone": [
+        "85297832998"
+      ],
+      "telephone_display": "9783 2998",
+      "effective_date_start": "2026-03-01",
+      "effective_date_end": "2028-02-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kwun Tong",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "潤生棚業工程有限公司",
+      "enterprise_name_en": "Runsheng Scaffolding Engineering Company Limited",
+      "address": "Room 702 Kowloon Building, 555 Nathan Road, Kowloon",
+      "telephone": [
+        "85237071204"
+      ],
+      "telephone_display": "3707 1204",
+      "effective_date_start": "2026-05-20",
+      "effective_date_end": "2028-05-19",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Yau Tsim Mong",
+      "cic_registered": false
+    },
+    {
+      "enterprise_name_zh": "森偉利工程有限公司",
+      "enterprise_name_en": "Sum Wai Lee Construction Company Limited",
+      "address": "G/F, No. 484 Chatham Road North, Hung Hom, Kowloon",
+      "telephone": [
+        "85223348535"
+      ],
+      "telephone_display": "2334 8535",
+      "effective_date_start": "2026-08-21",
+      "effective_date_end": "2028-08-20",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Kowloon City",
+      "cic_registered": false
+    },
+    {
+      "enterprise_name_zh": "朝陽工程(香港)有限公司",
+      "enterprise_name_en": "Sunrise Engineering (Hong Kong) Limited",
+      "address": "Room 305, Block A, 3/F, Alexandra Industrial Building, 1066 Tung Chau West Street, LCK, Kowloon",
+      "telephone": [
+        "85261063818"
+      ],
+      "telephone_display": "6106 3818",
+      "effective_date_start": "2026-08-31",
+      "effective_date_end": "2028-08-30",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "泓天建築工程有限公司",
+      "enterprise_name_en": "Wonder Sky Engineering (HK) Limited",
+      "address": "Flat 45, 8/F, Lead On Industrial Building, 18 Ng Fong Street, San Po Kong, Kowloon",
+      "telephone": [
+        "85290332429"
+      ],
+      "telephone_display": "9033 2429",
+      "effective_date_start": "2026-02-15",
+      "effective_date_end": "2028-02-14",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Wong Tai Sin",
+      "cic_registered": true
+    },
+    {
+      "enterprise_name_zh": "華駿工程有限公司",
+      "enterprise_name_en": "World Smart Engineering Limited",
+      "address": "G/F, No. 16 Ap Liu Street, Sham Shui Po, Kowloon",
+      "telephone": [
+        "85231690131"
+      ],
+      "telephone_display": "3169 0131",
+      "effective_date_start": "2026-03-01",
+      "effective_date_end": "2028-02-29",
+      "recertification_in_progress": false,
+      "accreditation_since": 2026,
+      "safety_tier": "osh_star",
+      "trade": "truss_out_scaffolding",
+      "district": "Sham Shui Po",
+      "cic_registered": true
+    }
+  ]
+}
