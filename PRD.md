@@ -32,7 +32,7 @@ In the live demo: the educational hub renders at the top with placeholder charac
 - Reviews, ratings, or contractor ranking
 - Real-time availability or scheduling
 - Automated periodic PDF re-ingestion (operator runs the script manually)
-- Multi-language support (English-only v1)
+- Multi-language support (Traditional Chinese UI only in v1; English localisation is out of scope)
 
 ## HARD CONSTRAINTS
 
@@ -42,5 +42,6 @@ In the live demo: the educational hub renders at the top with placeholder charac
 - **Per-user search cap.** A basic rate limit on the search-translation endpoint (e.g. 30 requests/hour per IP) to stay within Gemini Free Tier limits.
 - **Containerized for Cloud Run.** Repo includes a working Dockerfile; the app runs as a single container serving both frontend and API.
 - **TanStack Start.** Frontend is built with TanStack Start (React, file-based routing, SSR-capable).
+- **Traditional Chinese UI.** All user-facing copy, labels, headings, and educational content are in Traditional Chinese (繁體中文). Contractor data (enterprise names, addresses) is displayed as-is from the source — bilingual where the source is bilingual.
 - **Safety tier badges.** Each card displays exactly one of two badges — OSH Star or OSH Gold Star — derived from the ingested data.
 - **Contact actions.** Every card has a `tel:` link and a WhatsApp `https://wa.me/<number>` link. If a phone number is missing from the source data, the card omits both actions and shows "Contact unavailable."
