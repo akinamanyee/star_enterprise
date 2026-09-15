@@ -163,11 +163,8 @@ export const parseSearchQuery = createServerFn({ method: "GET" })
       return { filters: { trade: null, district: null, keywords: [] }, fallback: false };
     }
 
-    const ip =
-      (typeof globalThis !== "undefined" &&
-        "process" in globalThis &&
-        process.env.__CLIENT_IP) ||
-      "unknown";
+    const { getRequestIP } = await import("@tanstack/react-start/server");
+    const ip = getRequestIP({ xForwardedFor: true }) ?? "unknown";
 
     if (!checkRateLimit(ip)) {
       return { filters: localParse(query), fallback: true };

@@ -1,13 +1,16 @@
 import { z } from "zod";
+import type { Contractor, Trade, SafetyTier } from "../src/utils/contractors";
+
+export type { Contractor, Trade, SafetyTier };
 
 export const TradeEnum = z.enum([
   "interior_renovation",
   "air_conditioning",
   "external_wall_pipe",
   "truss_out_scaffolding",
-]);
+]) satisfies z.ZodType<Trade>;
 
-export const SafetyTierEnum = z.enum(["osh_star", "osh_gold_star"]);
+export const SafetyTierEnum = z.enum(["osh_star", "osh_gold_star"]) satisfies z.ZodType<SafetyTier>;
 
 export const ContractorSchema = z.object({
   enterprise_name_zh: z.string().min(1),
@@ -32,7 +35,4 @@ export const ContractorsFileSchema = z.object({
   contractors: z.array(ContractorSchema),
 });
 
-export type Contractor = z.infer<typeof ContractorSchema>;
 export type ContractorsFile = z.infer<typeof ContractorsFileSchema>;
-export type Trade = z.infer<typeof TradeEnum>;
-export type SafetyTier = z.infer<typeof SafetyTierEnum>;
