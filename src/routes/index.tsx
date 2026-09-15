@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState, useMemo, useCallback, useTransition } from "react";
 import { ContractorCard } from "../components/ContractorCard";
+import { EducationalHub } from "../components/EducationalHub";
 import { FilterBar, type Filters } from "../components/FilterBar";
 import {
   getContractors,
@@ -143,6 +144,8 @@ function HomePage() {
           香港職業安全健康局認可承建商名錄 — 室內裝修、冷氣、外牆維修及棚架工程
         </p>
       </header>
+
+      <EducationalHub />
 
       <section className="mb-8" aria-label="篩選條件">
         <FilterBar
